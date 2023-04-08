@@ -33,9 +33,15 @@ First you need to install C++ toolchain [https://visualstudio.microsoft.com/vs/f
 
 Than you need to install python [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
-Than you need to download and run this.
+Than you need to download both of the ORG AND GUI [ORG](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxer.py) [GUI](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxerGUI.pyw)
 
-Than you need to download both of them and run the GUI.
+**than double click** to run the [GUI](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxerGUI.pyw)
+
+Than you need to Select the folder that your Live Photos are in
+
+Than you need to Select the folder that you want the GENERETED GOOGLE MOTION PHOTOS to be in.
+
+Than you click the **RUN** button. This is it you've MUXED them!!
 
 Using Ubuntu as an example:
 
