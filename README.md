@@ -1,4 +1,4 @@
-MotionPhotoMuxer
+MotionPhotoMuxerGUI
 ================
 
 > **Note**
@@ -11,6 +11,31 @@ Convert Apple Live Photos into Google Motion Photos commonly found on Android ph
 
 As of right now, this script only has one dependency, `py3exiv2`. Unfortunately
 this requires building a C++ library to install, so you need to install a C++ toolchain.
+
+*****For GUI you also need: a Windows PC that supports python 3.
+And you need to run this "requirement installer" .bat to use it properly.
+
+You need the MotionPhotoMuxerGUI.pyw and ***MotionPhotoMuxer.py*** in the same directory or folder.
+
+You need to use .JPG images and .MOV(h.264) videos to use this!!!! It's not gonna work with ".heic" images and (H.265)".MOV" video files!! To transfer the correct formatted files make sure that you use on your iPhone go to:
+
+-Settings.
+
+-Photos.
+
+At the bottom of the page you'll see ***"Transfer to Mac or PC"*** section select ***AUTOMATIC*** *not the OTHER option*
+
+Than you transfer the Live Photos that you wanna convert.(i ***dont*** recommend transferring REGULAR VIDEOS like this. Only "Live Photos")
+
+**HOW TO USE THE GUI:**
+
+First you need to install C++ toolchain [https://visualstudio.microsoft.com/vs/features/cplusplus/](https://visualstudio.microsoft.com/vs/features/cplusplus/) **WITHOUT IT it's not gonna work**
+
+Than you need to install python [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+Than you need to download and run this.
+
+Than you need to download both of them and run the GUI.
 
 Using Ubuntu as an example:
 
