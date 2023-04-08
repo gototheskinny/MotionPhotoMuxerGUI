@@ -43,6 +43,12 @@ Than you need to Select the folder that you want the GENERETED GOOGLE MOTION PHO
 
 Than you click the **RUN** button. This is it you've MUXED them!!
 
+
+
+
+
+
+
 Using Ubuntu as an example:
 
 ~~~bash
