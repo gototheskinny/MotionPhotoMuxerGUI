@@ -12,6 +12,8 @@ Convert Apple Live Photos into Google Motion Photos commonly found on Android ph
 As of right now, this script only has one dependency, `py3exiv2`. Unfortunately
 this requires building a C++ library to install, so you need to install a C++ toolchain.
 
+GUI
+
 *****For GUI you also need: a Windows PC that supports python 3.
 And you need to run this "requirement installer" .bat to use it properly.
 
@@ -33,9 +35,13 @@ First you need to install C++ toolchain [https://visualstudio.microsoft.com/vs/f
 
 Than you need to install python [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
+Than you **need** to download and run **[req.bat](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/req.bat)**
+
 Than you need to download both of the ORG AND GUI [ORG](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxer.py) [GUI](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxerGUI.pyw)
 
-**than double click** to run the [GUI](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxerGUI.pyw)
+Than you need to PUT THEM in the **same folder**
+
+Than **double click** to run the [GUI](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxerGUI.pyw)
 
 Than you need to Select the folder that your Live Photos are in
 
