@@ -14,7 +14,7 @@ this requires building a C++ library to install, so you need to install a C++ to
 
 GUI
 
-Written by ChatGPT 3.5 March 24 2023. Guided AND Debugged by ME(i don't know anything about py coding) for **HOURS**
+Written by ChatGPT 3.5 March 23 2023. Guided AND Debugged by ME(i don't know anything about py coding) for **HOURS**
 
 
 
