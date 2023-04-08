@@ -15,8 +15,11 @@ this requires building a C++ library to install, so you need to install a C++ to
 GUI
 
 Written by ChatGPT 3.5 March 24 2023. Guided AND Debugged by ME(i don't know anything about py coding) for **HOURS**
-*****For GUI you also need: a Windows PC that supports python 3.
-And you need to run this "requirement installer" .bat to use it properly.
+
+
+
+For GUI you also need: a **Windows** PC that supports python **3**.
+And you need to run [this](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/req.bat) "requirement installer" .bat to use it properly.
 
 You need the MotionPhotoMuxerGUI.pyw and ***MotionPhotoMuxer.py*** in the same directory or folder.
 
@@ -110,3 +113,6 @@ extensive testing done yet, so use at your own risk!
 
 This wouldn't have been possible without the excellent writeup on the process
 of working with Motion Photos [here](https://medium.com/android-news/working-with-motion-photos-da0aa49b50c).
+
+
+The [GUI](https://github.com/gototheskinny/MotionPhotoMuxerGUI/blob/main/MotionPhotoMuxerGUI.pyw) script is Written by ChatGPT 3.5 March 24 2023. Guideded AND Debugged by [gototheskinny](https://github.com/gototheskinny/)
